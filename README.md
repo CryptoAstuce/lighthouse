@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours pédagogique en français présente Lighthouse, la Beacon Chain, la synchronisation, les attestations, le fork choice, la finalité et le slashing. Voir [docs/fr/README.md](docs/fr/README.md).
+
 # Lighthouse: Ethereum consensus client
 
 An open-source Ethereum consensus client, written in Rust and maintained by Sigma Prime.
